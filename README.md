@@ -22,17 +22,6 @@ If you are accessing the site on a mobile phone, please enable **Desktop Mode** 
 
 ---
 
-### 🖼️ **Preview Images**
-Here are some screenshots of the project:
-
-#### **Homepage**
-![Homepage Preview](https://via.placeholder.com/800x400?text=Homepage+Preview)
-
-#### **Product Page**
-![Product Page Preview](https://via.placeholder.com/800x400?text=Product+Page+Preview)
-
----
-
 ### 🛠️ **Technologies Used**
 - **HTML**: For structuring the content.
 - **CSS**: For styling and layout.
